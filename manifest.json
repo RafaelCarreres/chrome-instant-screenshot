@@ -11,7 +11,7 @@
     "service_worker": "background.js"
   },
   "action": {
-    "default_title": "Preserve Screenshot"
+    "default_title": "Instant Screenshot"
   },
   "icons": {
     "16": "icon-16.png",
