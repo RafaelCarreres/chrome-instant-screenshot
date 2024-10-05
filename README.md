@@ -1,7 +1,7 @@
 # Instant Screenshot
 
 Instant Screenshot is a Chrome extension that allows you to quickly capture a screenshot of your active tab and save it directly to your Downloads folder. The extension is designed to be simple, fast, and easy to use without unnecessary prompts or popups.
-
+It's ideal for providing visual context to Large Language Models (LLMs), enabling enhanced understanding and more accurate responses.
 
 
 ## Features
