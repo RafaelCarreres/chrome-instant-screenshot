@@ -17,14 +17,19 @@ It's ideal for providing visual context to Large Language Models (LLMs), enablin
 ## Installation
 
 1. **Clone the Repository:**
+    - To clone this repository, you can use the following command in your terminal:
 
-2. **Load the Extension in Chrome:**
+    ```bash
+    git clone https://github.com/RafaelCarreres/chrome-instant-screenshot.git
+    ```
+
+3. **Load the Extension in Chrome:**
 
     - Open Chrome and navigate to chrome://extensions/.
     - Enable Developer mode by toggling the switch in the top-right corner.
     - Click "Load unpacked" and select the directory where you cloned the repository.
 
-3. **Start Using the Extension:**
+4. **Start Using the Extension:**
 
     - Click on the extension icon in the Chrome toolbar to take a screenshot of the current tab.
 
