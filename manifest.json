@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Instant Screenshot",
   "version": "1.0",
-  "description": "Effortlessly capture screenshots to provide your LLMs with visual context, enabling enhanced understanding and more accurate responses.",
+  "description": "Effortlessly capture screenshots to provide visual context to your LLMs, enabling enhanced understanding and more accurate responses.",
   "permissions": [
     "activeTab",
     "downloads"
