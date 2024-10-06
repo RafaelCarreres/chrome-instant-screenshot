@@ -25,7 +25,7 @@ It's ideal for providing visual context to Large Language Models (LLMs), enablin
 
 3. **Load the Extension in Chrome:**
 
-    - Open Chrome and navigate to chrome://extensions/.
+    - Open Chrome and navigate to ```chrome://extensions/```
     - Enable Developer mode by toggling the switch in the top-right corner.
     - Click "Load unpacked" and select the directory where you cloned the repository.
 
@@ -39,7 +39,7 @@ It's ideal for providing visual context to Large Language Models (LLMs), enablin
 
 - **Click the Extension Icon:** When you click the Instant Screenshot icon, it will capture the visible area of the current tab.
 
-- **File Naming:** The screenshot will be saved with a filename in the format screenshot_MM-DD-YYYY_HH-MM-SS.png, where the date and time represent when the screenshot was taken.
+- **File Naming:** The screenshot will be saved with a filename in the format ```screenshot_MM-DD-YYYY_HH-MM-SS.png```, where the date and time represent when the screenshot was taken.
 
 
 
